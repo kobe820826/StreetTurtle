@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF384D7e0b5d5F8765292d4810037c7e4A45fF81B",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf384d7e0b5d5f8765292d4810037c7e4a45ff81b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Street Turtle",
+  "SYMBOL": "ST",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/streetturtle",
+  "SHOW_BACKGROUND": true
+}
